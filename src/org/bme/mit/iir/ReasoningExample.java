@@ -24,8 +24,7 @@ import org.semanticweb.owlapi.vocab.OWLRDFVocabulary;
 
 public class ReasoningExample {
 
-	public static final String PCSHOP_ONTOLOGY_FNAME = 
-		"c:/temp/pc_shop/pc_shop.owl";
+	public static final String PCSHOP_ONTOLOGY_FNAME = "pc_shop.owl";
 	public static final String PCSHOP_BASE_URI = 
 		"http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#";
     public static final IRI ANNOTATION_TYPE_IRI =
